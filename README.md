@@ -69,7 +69,7 @@
     <a href="https://www.facebook.com/wafiyapnetion/">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="https://www.instagram.com/technologyhell/">
+    <a href="https://www.instagram.com/jannatulferdous_papry/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
       <a href="mailto:jannatulferdouspapry115@gmail.com">
