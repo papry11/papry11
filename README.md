@@ -4,14 +4,14 @@
     I enjoy solving problems, optimizing user interfaces, and turning creative ideas into fully functional websites. Currently, I’m collaborating with clients to improve their websites through design updates, feature development, and bug fixing.<br><br>
     I'm always open to learning new technologies and taking on exciting development projects!
   </p>
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Web%20Enthusiast;Problem%20Solver&font=Pacifico&size=35&color=C71585&center=true&vCenter=true&width=1000"   alt="Typing SVG">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Software%20Developer;Web%20Enthusiast;Problem%20Solver;Open%20Source%20Contributor&font=Pacifico&size=35&color=C71585&center=true&vCenter=true&width=1000" alt="Typing SVG">
   <br>
 
   <h2>📊 GitHub Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=papry11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Jannatul Ferdous Papry's GitHub Stats"/>
  
   <img src="https://nirzak-streak-stats.vercel.app/?user=papry11&theme=tokyonight&hide_border=false" alt="Jannatul Ferdous Papry's GitHub Streak"/>
-  <br/>
+  
 
   <br>
 
