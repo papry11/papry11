@@ -8,10 +8,16 @@
   <br>
 
   <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=papry11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Jannatul Ferdous Papry's GitHub Stats"/>
- 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=papry11&theme=tokyonight&hide_border=false" alt="Jannatul Ferdous Papry's GitHub Streak"/>
-  
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=papry11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Jannatul Ferdous Papry's GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=papry11&theme=tokyonight&hide_border=false" alt="Jannatul Ferdous Papry's GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 
   <br>
 
