@@ -85,7 +85,9 @@
 
   <br>
   
-  <a href="https://github.com/platane/snk">
-    <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.gif" alt="GitHub Snake Game">
-  </a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.gif" />
+  <img alt="GitHub Snake Game" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.gif" />
+</picture>
 </div>
