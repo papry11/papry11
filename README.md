@@ -1,11 +1,10 @@
 <div align="center">
-  <h1>💫 About Me:</h1>
   <p align="left">
     Hi, I'm Jannatul Ferdous Papry, a dedicated web developer with a strong focus on creating clean, responsive, and interactive websites. I work with HTML, CSS, JavaScript, React.js, Node.js, and Bootstrap to build seamless web experiences.
     I enjoy solving problems, optimizing user interfaces, and turning creative ideas into fully functional websites. Currently, I’m collaborating with clients to improve their websites through design updates, feature development, and bug fixing.<br><br>
     I'm always open to learning new technologies and taking on exciting development projects!
   </p>
-
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Web%20Enthusiast;Problem%20Solver&font=Pacifico&size=35&color=C71585&center=true&vCenter=true&width=1000"   alt="Typing SVG">
   <br>
 
   <h2>📊 GitHub Stats:</h2>
