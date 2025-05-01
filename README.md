@@ -72,10 +72,10 @@
     <a href="https://www.instagram.com/technologyhell/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="jannatulferdouspapry115@gmail.com">
+      <a href="mailto:jannatulferdouspapry115@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://twitter.com/TechnologyHell">
+    <a href="https://x.com/">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="https://wa.me/8801982094977">
