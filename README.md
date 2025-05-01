@@ -1,34 +1,18 @@
-<div align="center">
-  <img src="https://github.com/TechnologyHell/TechnologyHell/blob/main/tech_logo.png?raw=true" alt="TECH" width="200">
-  <h1>Nitish Singh</h1>
-  <p>technologyhell · he/him</p>
-</div>
+# 💫 About Me:
+Hi, I'm Jannatul Ferdous Papry, a dedicated web developer with a strong focus on creating clean, responsive, and interactive websites. I work with HTML, CSS, JavaScript, React.js, Node.js, and Bootstrap to build seamless web experiences.<br><br>I enjoy solving problems, optimizing user interfaces, and turning creative ideas into fully functional websites. Currently, I’m collaborating with clients to improve their websites through design updates, feature development, and bug fixing.<br><br>I'm always open to learning new technologies and taking on exciting development projects!
 
-<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=papry11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=papry11&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=papry11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-  <a href="https://github.com/TechnologyHell?tab=followers">
-    <img src="https://img.shields.io/github/followers/TechnologyHell?style=social" alt="Followers">
-  </a>
-  <a href="https://github.com/TechnologyHell?tab=following">
-    <img src="https://img.shields.io/github/following/TechnologyHell?style=social" alt="Following">
-  </a>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=papry11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=papry11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <h3>Nitish Singh's GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=TechnologyHell&show_icons=true&theme=dark" alt="Nitish's GitHub Stats">
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnologyHell&layout=compact&theme=dark" alt="Top Langs">
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
 
 <div align="center">
