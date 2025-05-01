@@ -1,6 +1,6 @@
 <div align="center">
   <p align="left">
-    Hi, I'm Jannatul Ferdous Papry, a dedicated web developer with a strong focus on creating clean, responsive, and interactive websites. I work with HTML, CSS, JavaScript, React.js, Node.js, and Bootstrap to build seamless web experiences.
+    Hi, I'm Jannatul Ferdous Papry, a dedicated web developer with a strong focus on creating clean, responsive, and interactive websites.
     I enjoy solving problems, optimizing user interfaces, and turning creative ideas into fully functional websites. Currently, I’m collaborating with clients to improve their websites through design updates, feature development, and bug fixing.<br><br>
     I'm always open to learning new technologies and taking on exciting development projects!
   </p>
